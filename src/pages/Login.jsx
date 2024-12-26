@@ -38,7 +38,7 @@ function Login() {
       className="h-screen grid place-items-center w-full"
     >
       <Form method="post" className="max-w-96 mx-auto w-full">
-        <h2 className="text-4xl text-center mb-5 font-bold">Register</h2>
+        <h2 className="text-4xl text-center mb-5 font-bold">Login</h2>
         <FormInput
           type="email"
           placeholder="Email"
