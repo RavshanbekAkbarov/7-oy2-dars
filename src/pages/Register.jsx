@@ -38,7 +38,7 @@ function Register() {
   return (
     <div
       style={{
-        backgroundImage: "url(./public/login.png)",
+        backgroundImage: "url(../public/login.png)",
         backgroundSize: "cover",
         backgroundPosition: "center",
         height: "100vh",
